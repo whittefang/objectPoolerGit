@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CameraAspectForce.cs">
+    <Files>
+      <File FileName="Assets\Shoot.cs" Line="24" Column="1" />
+      <File FileName="Assets\ObjectSelfDesruct.cs" Line="11" Column="26" />
+      <File FileName="Assets\ObjectPoolScript.cs" Line="26" Column="72" />
+      <File FileName="Assets\CameraAspectForce.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
